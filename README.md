@@ -1,7 +1,10 @@
 ## Hi there 👋
-<a href="https://www.linkedin.com/in/sena-gulubol-230637135/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sena-gulubol-230637135/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
 
 
 <!--
