@@ -27,13 +27,26 @@ Innovative and detail-oriented <strong>Frontend Developer</strong> with a passio
 * Backend (Basic Knowledge): Node.js, Express, .NET Core, RESTful APIs
 * Tools & Workflow: Webpack, Agile (Scrum, Kanban), Jira, Figma, Sketch, Zeplin
 * Security & Accessibility: W3C compliance, OWASP security best practices, cross-browser compatibility
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 &nbsp; <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript Badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript Badge"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge"/>
 </p>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+## 🎯 Soft Skills
+* Strong problem-solving & analytical thinking
+* Excellent communication & teamwork skills
+* Agile mindset with a proactive & growth-oriented approach
+* Passion for learning & innovation
+* Ability to break down complex problems into actionable solutions
 
 
 
