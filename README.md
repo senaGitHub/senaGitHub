@@ -13,7 +13,7 @@ Innovative and detail-oriented <strong>Frontend Developer</strong> with a passio
 </p>
 &nbsp;&nbsp;
 <p align='center'>
-📫 How to reach me: <a href='mailto:gulubols@gmail.com'>gulubols@gmail.com</a>
+📫 How to reach me: <a href='mailto:gulubols@gmail.com'>senagulubol98@hotmail.com</a>
 </p>
 &nbsp;&nbsp;
 
