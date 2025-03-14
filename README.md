@@ -7,11 +7,6 @@
   <a href="https://www.codecademy.com/profiles/gulubols" target="_blank">
     <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"/>
   </a>
-   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:gulubols@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-
 </p>
 
 <!--
