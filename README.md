@@ -3,9 +3,8 @@
   <a href="https://www.linkedin.com/in/sena-gulubol-230637135/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <span style="margin-left: 1000px"></span>
   <a href="https://www.codecademy.com/profiles/gulubols" target="_blank">
-    <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"/>
+    <img style="margin-left: '100px' src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"/>
   </a>
 </p>
 
