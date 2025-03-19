@@ -19,14 +19,13 @@ Innovative and detail-oriented <strong>Frontend Developer</strong> with a passio
 
 ## 🛠 Technology Stack
 * Frontend Technologies: React, Next.js, Vue.js, Angular, TypeScript, JavaScript, HTML, CSS
-* State Management: Redux, Redux-Saga, Vuex, Context API
-* UI & Styling: Tailwind CSS, Material UI, Bootstrap, SASS, Styled Components
+* State Management: Redux, Context API
+* UI & Styling: Tailwind CSS, Bootstrap, SASS, Styled Components
 * Testing & Deployment: Jest, Cypress, Selenium, Karma, Protractor
 * Performance & Optimization: Code splitting, lazy loading, SSR, SEO best practices
-* CI/CD & Version Control: Git, GitHub, GitLab, Jenkins, Bitbucket, Docker
-* Backend (Basic Knowledge): Node.js, Express, .NET Core, RESTful APIs
-* Tools & Workflow: Webpack, Agile (Scrum, Kanban), Jira, Figma, Sketch, Zeplin
-* Security & Accessibility: W3C compliance, OWASP security best practices, cross-browser compatibility
+* CI/CD & Version Control: Git, GitHub, GitLab, Jenkins
+* Backend (Basic Knowledge): Node.js, RESTful APIs
+* Tools & Workflow: Webpack, Agile (Scrum, Kanban), Jira, Figma, Cross-browser compatibility
 &nbsp; <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="LinkedIn Badge"/>
     <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="LinkedIn Badge"/>
@@ -47,6 +46,7 @@ Innovative and detail-oriented <strong>Frontend Developer</strong> with a passio
 * Agile mindset with a proactive & growth-oriented approach
 * Passion for learning & innovation
 * Ability to break down complex problems into actionable solutions
+* Experience in high-traffic enterprise applications
 
 
 
