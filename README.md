@@ -21,7 +21,7 @@ Innovative and detail-oriented <strong>Frontend Developer</strong> with a passio
 * Frontend Technologies: React, Next.js, Vue.js, Angular, TypeScript, JavaScript, HTML, CSS
 * State Management: Redux, Context API
 * UI & Styling: Tailwind CSS, Bootstrap, SASS, Styled Components
-* Testing & Deployment: Jest, Cypress, Selenium, Karma, Protractor
+* Testing & Deployment: Jest, Cypress
 * Performance & Optimization: Code splitting, lazy loading, SSR, SEO best practices
 * CI/CD & Version Control: Git, GitHub, GitLab, Jenkins
 * Backend (Basic Knowledge): Node.js, RESTful APIs
