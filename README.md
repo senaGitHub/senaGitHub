@@ -18,25 +18,17 @@ across the full software development lifecycle. 🚀
 &nbsp;&nbsp;
 
 ## 🛠 Technology Stack
- * <b>Backend & Architecture: </b> Java 17, Spring Boot, Spring Data JPA, Hibernate, Microservices, RESTful API Design,
+ * <b>Backend & Architecture:</b> Java 17, Spring Boot, Spring Data JPA, Hibernate, Microservices, RESTful API Design,
     Swagger/OpenAPI, Layered Architecture, OOP, SOLID Principles, Design Patterns, Legacy System Modernization
- * Messaging & Caching: Apache Kafka, Redis
- * Frontend: Vue.js (Vue 3, Composition API), Vuetify, React, TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS/
+ * <b>Messaging & Caching:</b> Apache Kafka, Redis
+ * <b>Frontend:</b> Vue.js (Vue 3, Composition API), Vuetify, React, TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS/
     Sass, State Management (Pinia/Vuex), Redux Toolkit, React Router, Responsive Design
- * Security & Authentication: Spring Security, JWT, Role-Based Access Control (RBAC), BCrypt
- * Testing & Code Quality: JUnit/Mockito, Unit & Integration Testing, Clean Code
- * DevOps & Tools: Docker, Maven, Linux, Git, GitHub, GitLab, Jenkins, CI/CD, Postman, Jira, Agile/Scrum
-    Databases: PostgreSQL, MySQL, MongoDB
- * Tools & Workflow: Webpack, Agile (Scrum, Kanban), Jira, Figma, Cross-browser compatibility
-&nbsp; <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="LinkedIn Badge"/>
-    <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript Badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript Badge"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge"/>
-</p>
+ * <b>Security & Authentication:</b> Spring Security, JWT, Role-Based Access Control (RBAC), BCrypt
+ * <b>Testing & Code Quality:</b> JUnit/Mockito, Unit & Integration Testing, Clean Code
+ * <b>DevOps & Tools:</b> Docker, Maven, Linux, Git, GitHub, GitLab, Jenkins, CI/CD, Postman, Jira, Agile/Scrum
+ * <b>Databases:</b> PostgreSQL, MySQL, MongoDB
+ * <b>Tools & Workflow:</b> Webpack, Agile (Scrum, Kanban), Jira, Figma, Cross-browser compatibility
+&nbsp;<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot Badge"/> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security Badge"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate Badge"/> <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka Badge"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Badge"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger Badge"/> <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit Badge"/> </p>
 &nbsp;
 &nbsp;
 &nbsp;
