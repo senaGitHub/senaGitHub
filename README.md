@@ -1,6 +1,10 @@
 ## Hi,I'm Sena 👋
 
-Innovative and detail-oriented <strong>Frontend Developer</strong> with a passion for building scalable, high-performance web applications. Expert in React, Next.js, Vue.js, and TypeScript, with a deep focus on UI/UX design, accessibility, and performance optimization. Experienced in working on enterprise-level applications and high-traffic platforms. Actively contributing to open-source projects and always seeking innovative ways to improve development workflows. Thrives in Agile environments, collaborating with cross-functional teams to deliver seamless user experiences. 🚀
+Full-Stack Developer with 4.5+ years of experience in enterprise banking and B2B platforms, building backend services
+with Java 17 and Spring Boot. Experienced in microservices, event-driven architecture with Kafka, RESTful API design,
+JPA/Hibernate, PostgreSQL, and JWT-based security, alongside modern frontend development with Vue.js and React.
+Fluent in English (C1), with a track record of mentoring junior developers and delivering secure, maintainable solutions
+across the full software development lifecycle. 🚀
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sena-gulubol-230637135/" target="_blank">
