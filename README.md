@@ -18,7 +18,7 @@ across the full software development lifecycle. 🚀
 &nbsp;&nbsp;
 
 ## 🛠 Technology Stack
- * Backend & Architecture: Java 17, Spring Boot, Spring Data JPA, Hibernate, Microservices, RESTful API Design,
+ * <b>Backend & Architecture: </b> Java 17, Spring Boot, Spring Data JPA, Hibernate, Microservices, RESTful API Design,
     Swagger/OpenAPI, Layered Architecture, OOP, SOLID Principles, Design Patterns, Legacy System Modernization
  * Messaging & Caching: Apache Kafka, Redis
  * Frontend: Vue.js (Vue 3, Composition API), Vuetify, React, TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS/
