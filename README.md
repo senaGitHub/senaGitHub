@@ -7,12 +7,8 @@ Fluent in English (C1), with a track record of mentoring junior developers and d
 across the full software development lifecycle. 🚀
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sena-gulubol-230637135/" target="_blank">
+  <a href="www.linkedin.com/in/sena-gulubol" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-   &nbsp;&nbsp;
-  <a href="https://www.codecademy.com/profiles/gulubols" target="_blank">
-    <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"/>
   </a>
 </p>
 &nbsp;&nbsp;
@@ -22,14 +18,16 @@ across the full software development lifecycle. 🚀
 &nbsp;&nbsp;
 
 ## 🛠 Technology Stack
-* Frontend Technologies: React, Next.js, Vue.js, Angular, TypeScript, JavaScript, HTML, CSS
-* State Management: Redux, Context API
-* UI & Styling: Tailwind CSS, Bootstrap, SASS, Styled Components
-* Testing & Deployment: Jest, Cypress
-* Performance & Optimization: Code splitting, lazy loading, SSR, SEO best practices
-* CI/CD & Version Control: Git, GitHub, GitLab, Jenkins
-* Backend (Basic Knowledge): Node.js, RESTful APIs
-* Tools & Workflow: Webpack, Agile (Scrum, Kanban), Jira, Figma, Cross-browser compatibility
+ * Backend & Architecture: Java 17, Spring Boot, Spring Data JPA, Hibernate, Microservices, RESTful API Design,
+    Swagger/OpenAPI, Layered Architecture, OOP, SOLID Principles, Design Patterns, Legacy System Modernization
+ * Messaging & Caching: Apache Kafka, Redis
+ * Frontend: Vue.js (Vue 3, Composition API), Vuetify, React, TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS/
+    Sass, State Management (Pinia/Vuex), Redux Toolkit, React Router, Responsive Design
+ * Security & Authentication: Spring Security, JWT, Role-Based Access Control (RBAC), BCrypt
+ * Testing & Code Quality: JUnit/Mockito, Unit & Integration Testing, Clean Code
+ * DevOps & Tools: Docker, Maven, Linux, Git, GitHub, GitLab, Jenkins, CI/CD, Postman, Jira, Agile/Scrum
+    Databases: PostgreSQL, MySQL, MongoDB
+ * Tools & Workflow: Webpack, Agile (Scrum, Kanban), Jira, Figma, Cross-browser compatibility
 &nbsp; <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="LinkedIn Badge"/>
     <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="LinkedIn Badge"/>
